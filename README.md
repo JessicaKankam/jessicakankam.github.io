@@ -1,6 +1,6 @@
-# Jessica Kankam's Data Analytics Portfolio
+# Jessica Kankam's Data Analytics Portfolio😀
 
-Welcome to my data analysis project portfolio!😀
+Welcome to my data analysis project portfolio!
 I'm currently pursuing an MBA in Business Analytics and passionate about using data and my background in Business to improve and optimize decision making in sales, supply chain, finance, and all other aspects of business operations in diverse industries.
 
 ## 📊 Projects
