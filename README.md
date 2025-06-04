@@ -12,7 +12,7 @@ I'm currently pursuing an MBA in Business Analytics and passionate about using d
 
 ## 📄 About Me
 
-- MBA Candidate | Business Analytics | UWM  
+  MBA Candidate | Business Analytics | UWM  
 - Undergraduate degree in Business Admin (Accounting)
 - Current Intern at the Connected Systems Institute at UWM ensuring continuous improvements in advanced manufacturing operations.
 - Background in Finance/Accounting & Supply Chain in the Energy Industry
